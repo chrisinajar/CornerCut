@@ -10,7 +10,7 @@
 		"type": "git",
 		"url": "https://github.com/chrisinajar/CornerCut.git"
 	},
-	"license": "BSD",
+	"license": "FreeBSD",
 	"engine": {
 		"node": ">=0.4"
 	}
