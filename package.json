@@ -1,0 +1,17 @@
+{
+	"name": "CornerCut",
+	"version": "0.0.1",
+	"author": "Chris Vickery <chrisinajar@gmail.com>",
+	"description": "Dead simple web routing using modules",
+	"main": "./lib/cornercut.js",
+	"dependencies" : {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chrisinajar/CornerCut.git"
+	},
+	"license": "BSD",
+	"engine": {
+		"node": ">=0.4"
+	}
+}
